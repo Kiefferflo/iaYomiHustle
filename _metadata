@@ -1,0 +1,12 @@
+{
+  "name": "iaYomiHustle",
+  "friendly_name": "ia OP",
+  "description": "An ia that win a lot",
+  "author": "Luco",
+  "version": "1.0",
+  "link": "",
+  "id": "00001",
+  "overwrites": false,
+  "requires": [""],
+  "priority": 0
+}
